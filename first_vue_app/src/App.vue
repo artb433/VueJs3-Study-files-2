@@ -15,7 +15,7 @@
   <Employee/>
   <Counter/>
   <Greeting/>
-  
+  <Register/>
 
   
  </div>
@@ -27,13 +27,15 @@ import Counter from './components/Counter.vue';
 import Customer from './components/Customer.vue';
 import Employee from './components/Employee.vue';
 import Greeting from './components/Greeting.vue';
+import Register from './components/Register.vue';
 
 export default {
     components: {
     Customer,
     Employee,
     Counter,
-    Greeting
+    Greeting,
+    Register
 }
 }
 
