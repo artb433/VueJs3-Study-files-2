@@ -15,7 +15,8 @@
   <Employee/>
   <Counter/>
   <Greeting/>
-  <Register/>
+  <Register/> 
+  <Customer/>
 
   
  </div>
